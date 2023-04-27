@@ -22,3 +22,6 @@ My name is Ishan.
 - 💬 Ask me about: Migrating services and databases from one cloud provider to another and Kubernetes!
 - 📫 How to reach me: hire@ikanade.com / [LinkedIn](https://www.linkedin.com/in/ikanade/) / [Twitter @IshanKanade](https://twitter.com/IshanKanade)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ikanade&theme=dark&show_icons=true)](https://github.com/ikanade)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikanade&theme=dark)
